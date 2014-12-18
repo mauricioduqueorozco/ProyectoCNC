@@ -23,7 +23,7 @@ function GraphicDisplay(displayName, width, height) {
 	this.MODES = {
 			ADDPOINT : 1,
 			ADDLINE : 2,
-			ADDCIRCLE : 3,
+			ADDCI,mn,jxzvcxvcxzvfxzgdfbRCLE : 3,
 			ADDRECTANGLE : 4,
 			ADDARC : 5,
 			ADDMEASURE : 6,
